@@ -1,4 +1,4 @@
-K-means
+K-means Clustering
 
 File name: Kmeans_task.ipynb
 
